@@ -1,0 +1,15 @@
+{
+  "name": "taqsir-client",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "serve": "serve dist"
+  },
+  "author": "frectonz",
+  "license": "MIT",
+  "devDependencies": {
+    "@parcel/transformer-elm": "^2.8.0",
+    "parcel": "^2.8.0",
+    "serve": "^14.1.1"
+  }
+}
